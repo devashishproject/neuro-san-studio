@@ -1,0 +1,38 @@
+{
+  "name": "HealthHireAI"
+
+  "description": "Healthcare Resume Analyzer"
+
+  "agents": [
+
+    {
+      "name": "ResumeExtractionAgent"
+
+      "description": "Extract information from healthcare resume"
+    },
+
+    {
+      "name": "HealthcareSkillsAgent"
+
+      "description": "Identify healthcare specific skills"
+    },
+
+    {
+      "name": "JobMatchingAgent"
+
+      "description": "Match healthcare jobs with candidate profile"
+    },
+
+    {
+      "name": "GapAnalysisAgent"
+
+      "description": "Identify missing healthcare skills"
+    },
+
+    {
+      "name": "RecommendationAgent"
+
+      "description": "Recommend certifications and training"
+    }
+  ]
+}
