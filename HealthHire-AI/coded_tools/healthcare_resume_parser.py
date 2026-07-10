@@ -19,4 +19,3 @@ def extract_resume_information(text):
     return {
         "detected_skills": skills
     }
-`
